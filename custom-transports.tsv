@@ -1,0 +1,26 @@
+# Origin	Destination	menuOption menuTarget objectID	Skills	Items	Quests	Varbits	VarPlayers	Duration	Display info
+# TwiLite custom transports that aren't present in shortest-path transports
+
+# Tutorial island
+3088 3119 0	3088 9520 0	Climb-down Ladder 9726						2
+
+# Kebos
+1312 3686 0	1312 10086 0	Enter Lizard dwelling 34405						2	
+1292 10091 0	1292 10093 0	Pass Mystical barrier 34642						1	
+1292 10093 0	1292 10091 0	Pass Mystical barrier 34642						1	
+
+# Prifddinas Gauntlet lobby
+3229 6114 0	3032 6125 1	Enter Gauntlet Portal 36081						1	
+3032 6123 1	3228 6116 0	Channel Teleport Platform 36082						1	
+
+# Lumbridge stairs
+3205 3228 0	3206 3229 1	Climb-up Staircase 56230						1	
+3205 3228 0	3206 3229 2	Top-floor Staircase 56230						1	
+3206 3229 0	3206 3229 1	Climb-up Staircase 56230						1	
+3206 3229 2	3205 3228 1	Climb-down Staircase 56231						1	
+3205 3209 0	3205 3209 1	Climb-up Staircase 56230						1	
+3205 3209 0	3205 3209 2	Top-floor Staircase 56230						1	
+3205 3209 1	3206 3208 0	Climb-down Staircase 16672						1	
+3205 3209 1	3205 3209 2	Climb-up Staircase 16672						1	
+3205 3208 2	3204 3207 1	Climb-down Staircase 56231						1	
+3205 3208 2	3206 3208 0	Bottom-floor Staircase 56231						1	
