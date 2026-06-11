@@ -36,3 +36,7 @@
 
 # Wizards Tower basement						
 3104 9573 0	3615 9470 0	Enter Portal 43765		Temple of the Eye			1	
+
+# Corp cave
+3201 3679 0 2963 4382 2 Enter Cave 678						1
+2963 4382 2 3201 3679 0 Exit Cave exit 679						1
