@@ -12,6 +12,10 @@
 3229 6114 0	3032 6125 1	Enter Gauntlet Portal 36081						1	
 3032 6123 1	3228 6116 0	Channel Teleport Platform 36082						1	
 
+# Aubury door
+3253 3398 0	3253 3399 0	Open Door 11780						1
+3253 3399 0	3253 3398 0	Open Door 11780						1
+
 # Lumbridge stairs
 3205 3228 0	3206 3229 1	Climb-up Staircase 56230						1	
 3205 3228 0	3206 3229 2	Top-floor Staircase 56230						1	
