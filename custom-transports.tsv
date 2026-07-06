@@ -45,6 +45,10 @@
 3201 3679 0 2963 4382 2 Enter Cave 678						1
 2963 4382 2 3201 3679 0 Exit Cave exit 679						1
 
+# Castle Drakan portal
+2527 7838 0	3160 7711 0	Enter Portal 61216						1
+3162 7711 0	2527 7838 0	Enter Portal 61216						1
+
 # Baxtorian Falls
 2513 3495 0	2513 3494 0	Open Gate 1560						1
 2513 3494 0	2513 3495 0	Open Gate 1560						1
