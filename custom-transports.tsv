@@ -39,11 +39,11 @@
 3320 3468 0	3319 3468 0	Open Gate 11766				3637>152		2	
 
 # Wizards Tower basement						
-3104 9573 0	3615 9470 0	Enter Portal 43765		Temple of the Eye			1	
+3104 9573 0	3615 9470 0	Enter Portal 43765			Temple of the Eye		1
 
 # Corp cave
-3201 3679 0 2963 4382 2 Enter Cave 678						1
-2963 4382 2 3201 3679 0 Exit Cave exit 679						1
+3201 3679 0	2963 4382 2	Enter Cave 678						1
+2963 4382 2	3201 3679 0	Exit Cave exit 679						1
 
 # Castle Drakan portal
 2527 7838 0	3160 7711 0	Enter Portal 61216						1
