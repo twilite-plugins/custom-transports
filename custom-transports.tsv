@@ -50,8 +50,8 @@
 3162 7711 0	2527 7838 0	Enter Portal 61216						1
 
 # East Ardougne
-2683 3263 1	2663 3266 0	Cross Gangplank 2086						3	
-2663 3266 0 2683 3263 1	Cross Gangplank 2085						3	
+2683 3263 1	2663 3266 0	Cross Gangplank 2086						3
+2663 3266 0	2683 3263 1	Cross Gangplank 2085						3
 
 # Baxtorian Falls
 2513 3495 0	2513 3494 0	Open Gate 1560						1
