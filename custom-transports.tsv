@@ -70,3 +70,10 @@
 
 # Edgeville to Soul Wars
 3081 3475 0	2206 2858 0	Enter Soul Wars Portal 40474						1
+
+# Al-Kharid gate
+# Al Kharid gate
+3267 3228 0	3268 3228 0	Pay-toll(10gp) Gate 44053		COINS=10			273<110	2
+3268 3228 0	3267 3228 0	Pay-toll(10gp) Gate 44053		COINS=10			273<110	2
+3267 3228 0	3268 3228 0	Open Gate 44051					273>=110	1
+3268 3228 0	3267 3228 0	Open Gate 44051					273>=110	1
