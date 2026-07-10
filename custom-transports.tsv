@@ -56,3 +56,17 @@
 # Baxtorian Falls
 2513 3495 0	2513 3494 0	Open Gate 1560						1
 2513 3494 0	2513 3495 0	Open Gate 1560						1
+
+# Ferox Enclave link to Ferox Underground
+3152 3644 0	3164 10043 0	Walk-down Stairs 39647						3
+3164 10043 0	3152 3644 0	Exit Opening 39648						3
+
+# Ferox Underground link to Soul Wars portal
+3158 10027 0	2206 2858 0	Enter Soul Wars Portal 40475						1
+
+# Soul Wars portal exits
+2206 2858 0	3158 10027 0	Enter Portal 40476						1	Ferox Enclave.
+2206 2858 0	3081 3475 0	Enter Portal 40476						1	Edgeville.
+
+# Edgeville to Soul Wars
+3081 3475 0	2206 2858 0	Enter Soul Wars Portal 40474						1
