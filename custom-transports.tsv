@@ -1,22 +1,17 @@
 # Origin	Destination	menuOption menuTarget objectID	Skills	Items	Quests	Varbits	VarPlayers	Duration	Display info
-
-# Tutorial island
-3088 3119 0	3088 9520 0	Climb-down Ladder 9726						2
-
-# Kebos
+# Tutorial island									
+3088 3119 0	3088 9520 0	Climb-down Ladder 9726						2	
+# Kebos									
 1312 3686 0	1312 10086 0	Enter Lizard dwelling 34405						2	
 1292 10091 0	1292 10093 0	Pass Mystical barrier 34642						1	
 1292 10093 0	1292 10091 0	Pass Mystical barrier 34642						1	
-
-# Prifddinas Gauntlet lobby
+# Prifddinas Gauntlet lobby									
 3229 6114 0	3032 6125 1	Enter Gauntlet Portal 36081						1	
 3032 6123 1	3228 6116 0	Channel Teleport Platform 36082						1	
-
-# Aubury door
-3253 3398 0	3253 3399 0	Open Door 11780						1
-3253 3399 0	3253 3398 0	Open Door 11780						1
-
-# Lumbridge stairs
+# Aubury door									
+3253 3398 0	3253 3399 0	Open Door 11780						1	
+3253 3399 0	3253 3398 0	Open Door 11780						1	
+# Lumbridge stairs									
 3205 3228 0	3206 3229 1	Climb-up Staircase 56230						1	
 3205 3228 0	3206 3229 2	Top-floor Staircase 56230						1	
 3206 3229 0	3206 3229 1	Climb-up Staircase 56230						1	
@@ -27,8 +22,7 @@
 3205 3209 1	3205 3209 2	Climb-up Staircase 16672						1	
 3205 3208 2	3204 3207 1	Climb-down Staircase 56231						1	
 3205 3208 2	3206 3208 0	Bottom-floor Staircase 56231						1	
-
-# Digsite
+# Digsite									
 3295 3428 0	3296 3428 0	Open Gate 24560				3637>152		2	
 3296 3428 0	3295 3428 0	Open Gate 24560				3637>152		2	
 3295 3429 0	3296 3429 0	Open Gate 24561				3637>152		2	
@@ -37,79 +31,63 @@
 3320 3467 0	3319 3467 0	Open Gate 11767				3637>152		2	
 3319 3468 0	3320 3468 0	Open Gate 11766				3637>152		2	
 3320 3468 0	3319 3468 0	Open Gate 11766				3637>152		2	
-
-# Wizards Tower basement						
-3104 9573 0	3615 9470 0	Enter Portal 43765			Temple of the Eye			1
-
-# Corp cave
-3201 3679 0	2963 4382 2	Enter Cave 678						1
-2963 4382 2	3201 3679 0	Exit Cave exit 679						1
-
-# Castle Drakan portal
-2527 7838 0	3160 7711 0	Enter Portal 61216						1
-3162 7711 0	2527 7838 0	Enter Portal 61216						1
-
-# East Ardougne
-2683 3263 1	2683 3266 0	Cross Gangplank 2086						3
-2663 3266 0	2683 3263 1	Cross Gangplank 2085						3
-
-# Baxtorian Falls
-2513 3495 0	2513 3494 0	Open Gate 1560						1
-2513 3494 0	2513 3495 0	Open Gate 1560						1
-
-# Ferox Enclave link to Ferox Underground
-3152 3644 0	3164 10043 0	Walk-down Stairs 39647						3
-3164 10043 0	3152 3644 0	Exit Opening 39648						3
-
-# Ferox Underground link to Soul Wars portal
-3158 10027 0	2206 2858 0	Enter Soul Wars Portal 40475						1
-
-# Soul Wars portal exits
+# Wizards Tower basement									
+3104 9573 0	3615 9470 0	Enter Portal 43765			Temple of the Eye			1	
+# Corp cave									
+3201 3679 0	2963 4382 2	Enter Cave 678						1	
+2963 4382 2	3201 3679 0	Exit Cave exit 679						1	
+# Castle Drakan portal									
+2527 7838 0	3160 7711 0	Enter Portal 61216						1	
+3162 7711 0	2527 7838 0	Enter Portal 61216						1	
+# East Ardougne									
+2683 3263 1	2683 3266 0	Cross Gangplank 2086						3	
+2663 3266 0	2683 3263 1	Cross Gangplank 2085						3	
+# Baxtorian Falls									
+2513 3495 0	2513 3494 0	Open Gate 1560						1	
+2513 3494 0	2513 3495 0	Open Gate 1560						1	
+# Ferox Enclave link to Ferox Underground									
+3152 3644 0	3164 10043 0	Walk-down Stairs 39647						3	
+3164 10043 0	3152 3644 0	Exit Opening 39648						3	
+# Ferox Underground link to Soul Wars portal									
+3158 10027 0	2206 2858 0	Enter Soul Wars Portal 40475						1	
+# Soul Wars portal exits									
 2206 2858 0	3158 10027 0	Enter Portal 40476						1	Ferox Enclave.
 2206 2858 0	3081 3475 0	Enter Portal 40476						1	Edgeville.
-
-# Edgeville to Soul Wars
-3081 3475 0	2206 2858 0	Enter Soul Wars Portal 40474						1
-
-# Al Kharid gate
-3267 3228 0	3268 3228 0	Pay-toll(10gp) Gate 44053		COINS=10			273<110	2
-3268 3228 0	3267 3228 0	Pay-toll(10gp) Gate 44053		COINS=10			273<110	2
-3267 3228 0	3268 3228 0	Open Gate 44051					273>=110	1
-3268 3228 0	3267 3228 0	Open Gate 44051					273>=110	1
-
-# Draynor Manor basement last door
-3099 9755 0	3101 9755 0	Open Door 11450						1
-3101 9755 0	3099 9755 0	Open Door 11450						1
-
-# Arceuus Library
-# NW
-1617 3825 0	1610 3825 1	Climb Stairs 27853						1
-1617 3825 0	1610 3825 1	Climb Stairs 27854						1
-1610 3825 1	1617 3825 0	Climb Stairs 27855						1
-1610 3825 1	1617 3825 0	Climb Stairs 27856						1
-1615 3819 1	1608 3819 2	Climb Stairs 27851						1
-1608 3819 2	1615 3819 1	Climb Stairs 27852						1
-
-# NE
-1644 3818 0	1643 3825 1	Climb Stairs 27853						1
-1644 3818 0	1643 3825 1	Climb Stairs 27854						1
-1643 3825 1	1644 3818 0	Climb Stairs 27855						1
-1643 3825 1	1644 3818 0	Climb Stairs 27856						1
-1643 3828 1	1650 3828 2	Climb Stairs 27851						1
-1650 3828 2	1643 3828 1	Climb Stairs 27852						1
-
-# SW
-1617 3795 0	1610 3795 1	Climb Stairs 27853						1
-1617 3795 0	1610 3795 1	Climb Stairs 27854						1
-1610 3795 1	1617 3795 0	Climb Stairs 27855						1
-1610 3795 1	1617 3795 0	Climb Stairs 27856						1
-1621 3791 1	1621 3798 2	Climb Stairs 27851						1
-1621 3798 2	1621 3791 1	Climb Stairs 27852						1
-
-# Center
-1638 3810 1	1638 3803 2	Climb Stairs 27851						1
-1638 3803 2	1638 3810 1	Climb Stairs 27852						1
-
-# Piscatoris falconry stile
-2371 3622 0	2371 3620 0	Climb-over Stile 19222						3
-2371 3620 0	2371 3621 0	Climb-over Stile 19222						3
+# Edgeville to Soul Wars									
+3081 3475 0	2206 2858 0	Enter Soul Wars Portal 40474						1	
+# Al Kharid gate									
+3267 3228 0	3268 3228 0	Pay-toll(10gp) Gate 44053		COINS=10			273<110	2	
+3268 3228 0	3267 3228 0	Pay-toll(10gp) Gate 44053		COINS=10			273<110	2	
+3267 3228 0	3268 3228 0	Open Gate 44051					273>=110	1	
+3268 3228 0	3267 3228 0	Open Gate 44051					273>=110	1	
+# Draynor Manor basement last door									
+3099 9755 0	3101 9755 0	Open Door 11450						1	
+3101 9755 0	3099 9755 0	Open Door 11450						1	
+# Arceuus Library									
+# NW									
+1617 3825 0	1610 3825 1	Climb Stairs 27853						1	
+1617 3825 0	1610 3825 1	Climb Stairs 27854						1	
+1610 3825 1	1617 3825 0	Climb Stairs 27855						1	
+1610 3825 1	1617 3825 0	Climb Stairs 27856						1	
+1615 3819 1	1608 3819 2	Climb Stairs 27851						1	
+1608 3819 2	1615 3819 1	Climb Stairs 27852						1	
+# NE									
+1644 3818 0	1643 3825 1	Climb Stairs 27853						1	
+1644 3818 0	1643 3825 1	Climb Stairs 27854						1	
+1643 3825 1	1644 3818 0	Climb Stairs 27855						1	
+1643 3825 1	1644 3818 0	Climb Stairs 27856						1	
+1643 3828 1	1650 3828 2	Climb Stairs 27851						1	
+1650 3828 2	1643 3828 1	Climb Stairs 27852						1	
+# SW									
+1617 3795 0	1610 3795 1	Climb Stairs 27853						1	
+1617 3795 0	1610 3795 1	Climb Stairs 27854						1	
+1610 3795 1	1617 3795 0	Climb Stairs 27855						1	
+1610 3795 1	1617 3795 0	Climb Stairs 27856						1	
+1621 3791 1	1621 3798 2	Climb Stairs 27851						1	
+1621 3798 2	1621 3791 1	Climb Stairs 27852						1	
+# Center									
+1638 3810 1	1638 3803 2	Climb Stairs 27851						1	
+1638 3803 2	1638 3810 1	Climb Stairs 27852						1	
+# Piscatoris falconry stile									
+2371 3622 0	2371 3620 0	Climb-over Stile 19222						3	
+2371 3620 0	2371 3621 0	Climb-over Stile 19222						3	
