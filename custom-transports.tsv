@@ -100,3 +100,30 @@
 1766 3620 1 1766 3620 0 Climb-down Ladder 11802						1
 2610 3316 0 2611 3316 0 Open Door						1
 2611 3316 0 2610 3316 0 Open Door						1
+# House teleports
+ 2953 3222 0 2 Outside Teleport to house 8013				2187=1	1          
+ 2953 3222 0 2 Break Teleport to house 8013				2187=1, 4744=1	1          
+ 2953 3222 0 2 Break Teleport to house 11741						1          
+ 2893 3463 0 2 Outside Teleport to house 8013				2187=2	1          
+ 2893 3463 0 2 Break Teleport to house 8013				2187=2, 4744=1	1          
+ 2893 3463 0 2 Break Teleport to house 11742						1          
+ 3338 3003 0 2 Outside Teleport to house 8013				2187=3	1          
+ 3338 3003 0 2 Break Teleport to house 8013				2187=3, 4744=1	1          
+ 3338 3003 0 2 Break Teleport to house 11743						1          
+ 2668 3631 0 2 Outside Teleport to house 8013				2187=4	1          
+ 2668 3631 0 2 Break Teleport to house 8013				2187=4, 4744=1	1          
+ 2668 3631 0 2 Break Teleport to house 11744						1          
+ 2757 3176 0 2 Outside Teleport to house 8013				2187=5	1          
+ 2757 3176 0 2 Break Teleport to house 8013				2187=5, 4744=1	1          
+ 2757 3176 0 2 Break Teleport to house 11745						1          
+ 2543 3095 0 2 Outside Teleport to house 8013				2187=6	1          
+ 2543 3095 0 2 Break Teleport to house 8013				2187=6, 4744=1	1          
+ 2543 3095 0 2 Break Teleport to house 11746						1          
+ 1742 3515 0 2 Outside Teleport to house 8013				2187=8	1          
+ 1742 3515 0 2 Break Teleport to house 8013				2187=8, 4744=1	1          
+ 1742 3515 0 2 Break Teleport to house 19651						1          
+ 3237 6075 0 2 Outside Teleport to house 8013				2187=9	1          
+ 3237 6075 0 2 Break Teleport to house 8013				2187=9, 4744=1	 1          
+ 3237 6075 0 2 Break Teleport to house 23771						1          
+ 1420 2964 0 2 Outside Teleport to house 8013				2187=13	1          
+ 1420 2964 0 2 Break Teleport to house 8013				2187=13, 4744=1	1
