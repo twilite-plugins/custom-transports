@@ -50,7 +50,7 @@
 3162 7711 0	2527 7838 0	Enter Portal 61216						1
 
 # East Ardougne
-2683 3263 1	2663 3266 0	Cross Gangplank 2086						3
+2683 3263 1	2683 3266 0	Cross Gangplank 2086						3
 2663 3266 0	2683 3263 1	Cross Gangplank 2085						3
 
 # Baxtorian Falls
@@ -110,7 +110,6 @@
 1638 3810 1	1638 3803 2	Climb Stairs 27851						1
 1638 3803 2	1638 3810 1	Climb Stairs 27852						1
 
-# Falconry Stile
 # Piscatoris falconry stile
 2371 3622 0	2371 3620 0	Climb-over Stile 19222						3
 2371 3620 0	2371 3621 0	Climb-over Stile 19222						3
