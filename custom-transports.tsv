@@ -121,3 +121,11 @@
 1987 5568 0	2435 3519 0	Pass-through Opening 28656						2	
 2026 5611 0	2128 5647 0	Enter Cavern entrance 28686						2	
 2129 5646 0	2026 5611 0	Climb-up Rope 28687						2	
+# Req overrides									
+2899 3713 0	2904 3720 0	Crawl-through Little crack 26382	60 Agility						
+2904 3720 0	2899 3713 0	Crawl-through Little crack 26382	60 Agility						
+2899 3715 0	2898 3719 0	Move Boulder 26415	70 Strength						
+2898 3719 0	2898 3715 0	Move Boulder 26415	70 Strength						
+2898 3715 0	2898 3719 0	Move Boulder 26415	70 Strength						
+2899 3719 0	2898 3715 0	Move Boulder 26415	70 Strength						
+2900 3719 0	2898 3715 0	Move Boulder 26415	70 Strength						
