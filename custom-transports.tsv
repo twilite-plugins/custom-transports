@@ -91,31 +91,31 @@
 # Piscatoris falconry stile									
 2371 3622 0	2371 3620 0	Climb-over Stile 19222						3	
 2371 3620 0	2371 3621 0	Climb-over Stile 19222						3	
-# Mahogany Homes houses
+# Mahogany Homes houses									
 1787 3592 0	1787 3592 1	Climb-up Ladder 11794						1	
-1787 3592 1	1787 3592 0	Climb-down Ladder 11802						1
-2617 3316 0	2617 3316 1	Climb-up Ladder 16683						1
-2617 3316 1	2617 3316 0	Climb-down Ladder 16679						1
-1766 3620 0	1766 3620 1	Climb-up Ladder 11794						1
-1766 3620 1	1766 3620 0	Climb-down Ladder 11802						1
-2610 3316 0	2611 3316 0	Open Door 40178						1
-2611 3316 0	2610 3316 0	Open Door 40178						1
-# Port Phasmatys
+1787 3592 1	1787 3592 0	Climb-down Ladder 11802						1	
+2617 3316 0	2617 3316 1	Climb-up Ladder 16683						1	
+2617 3316 1	2617 3316 0	Climb-down Ladder 16679						1	
+1766 3620 0	1766 3620 1	Climb-up Ladder 11794						1	
+1766 3620 1	1766 3620 0	Climb-down Ladder 11802						1	
+2610 3316 0	2611 3316 0	Open Door 40178						1	
+2611 3316 0	2610 3316 0	Open Door 40178						1	
+# Port Phasmatys									
 3671 3544 0	3661 3277 0	Travel Row boat 32601				10150>0		5	
 3672 3544 0	3661 3277 0	Travel Row boat 32601				10150>0		5	
 3661 3278 0	3671 3542 0	Travel Row boat 32602				10150>0		5	
 3659 3509 0	3659 3507 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
-3660 3509 0	3660 3507 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3659 3507 0	3659 3509 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3660 3507 0	3660 3509 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3651 3486 0	3653 3486 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3651 3485 0	3653 3485 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3653 3486 0	3651 3486 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3653 3485 0	3651 3485 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3669 3452 0	3669 3454 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3670 3452 0	3670 3454 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3669 3454 0	3669 3452 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
-3670 3454 0	3670 3452 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
+3660 3509 0	3660 3507 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3659 3507 0	3659 3509 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3660 3507 0	3660 3509 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3651 3486 0	3653 3486 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3651 3485 0	3653 3485 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3653 3486 0	3651 3486 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3653 3485 0	3651 3485 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3669 3452 0	3669 3454 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3670 3452 0	3670 3454 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3669 3454 0	3669 3452 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3670 3454 0	3670 3452 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
 # Gnome Stronghold									
 2435 3519 0	1987 5568 0	Pass-through Opening 28656						2	
 1987 5568 0	2435 3519 0	Pass-through Opening 28656						2	
