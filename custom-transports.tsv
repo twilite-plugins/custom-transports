@@ -92,7 +92,7 @@
 2371 3622 0	2371 3620 0	Climb-over Stile 19222						3	
 2371 3620 0	2371 3621 0	Climb-over Stile 19222						3	
 # Mahogany Homes houses
-1787 3592 0	1787 3592 1	Climb-up Ladder 11794						1
+1787 3592 0	1787 3592 1	Climb-up Ladder 11794						1	
 1787 3592 1	1787 3592 0	Climb-down Ladder 11802						1
 2617 3316 0	2617 3316 1	Climb-up Ladder 16683						1
 2617 3316 1	2617 3316 0	Climb-down Ladder 16679						1
@@ -104,7 +104,7 @@
 3671 3544 0	3661 3277 0	Travel Row boat 32601				10150>0		5	
 3672 3544 0	3661 3277 0	Travel Row boat 32601				10150>0		5	
 3661 3278 0	3671 3542 0	Travel Row boat 32602				10150>0		5	
-3659 3509 0	3659 3507 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
+3659 3509 0	3659 3507 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
 3660 3509 0	3660 3507 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
 3659 3507 0	3659 3509 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
 3660 3507 0	3660 3509 0	Pass Energy Barrier 16105			Ghosts Ahoy			2
