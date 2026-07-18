@@ -104,3 +104,8 @@
 3671 3544 0	3661 3277 0	Travel Row boat 32601				10150>0		5	
 3672 3544 0	3661 3277 0	Travel Row boat 32601				10150>0		5	
 3661 3278 0	3671 3542 0	Travel Row boat 32602				10150>0		5	
+# Gnome Stronghold									
+2435 3519 0	1987 5568 0	Pass-through Opening 28656						2	
+1987 5568 0	2435 3519 0	Pass-through Opening 28656						2	
+2026 5611 0	2128 5647 0	Enter Cavern entrance 28686						2	
+2129 5646 0	2026 5611 0	Climb-up Rope 28687						2	
