@@ -100,3 +100,7 @@
 1766 3620 1	1766 3620 0	Climb-down Ladder 11802						1
 2610 3316 0	2611 3316 0	Open Door 40178						1
 2611 3316 0	2610 3316 0	Open Door 40178						1
+# Port Phasmatys Row boat permanent unlock
+3671 3544 0	3661 3277 0	Travel Row boat 32601				10150>0		5	
+3672 3544 0	3661 3277 0	Travel Row boat 32601				10150>0		5	
+3661 3278 0	3671 3542 0	Travel Row boat 32602				10150>0		5	
