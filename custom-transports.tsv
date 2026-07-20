@@ -156,3 +156,6 @@
 1391 3323 0	1396 3323 0	Climb Rocks 56994	41 Agility					6	
 1368 3327 0	1368 3323 0	Climb-into Tunnel 56989	33 Agility					5	
 1368 3323 0	1368 3327 0	Climb-into Tunnel 56989	33 Agility					5	
+# Mountain Guide between Nemus Retreat and Quetzacalli Gorge									
+1486 3232 0	1361 3309 0	Follow Mountain Guide 14529						5	
+1361 3309 0	1486 3232 0	Follow Mountain Guide 14529						5	
