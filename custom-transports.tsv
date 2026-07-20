@@ -139,3 +139,21 @@
 3204 10136 0	3200 10136 0	Jump-to Pillar 31561	75 Agility					4
 3241 10147 0	3241 10143 0	Jump-to Pillar 31561	89 Agility					4
 3241 10143 0	3241 10147 0	Jump-to Pillar 31561	89 Agility					4
+# Vale totems agility
+1369 3296 0	1369 3294 0	Climb-over Broken wall 56996	24 Agility					4
+1369 3294 0	1369 3296 0	Climb-over Broken wall 56996	24 Agility					4
+1387 3301 0	1387 3303 0	Climb-over Broken wall 56996	24 Agility					4
+1387 3303 0	1387 3301 0	Climb-over Broken wall 56996	24 Agility					4
+1389 3309 0	1391 3309 0	Climb-over Broken wall 56997	24 Agility					4
+1391 3309 0	1389 3309 0	Climb-over Broken wall 56997	24 Agility					4
+1399 3309 0	1393 3309 0	Cross Stepping stone 56988	36 Agility					4
+1393 3309 0	1399 3309 0	Cross Stepping stone 56988	36 Agility					4
+1401 3291 0	1401 3283 0	Walk-across Log balance 56990	45 Agility					4
+1401 3283 0	1401 3291 0	Walk-across Log balance 56990	45 Agility					4
+1453 3329 0	1453 3336 0	Walk-across Log balance 56991	45 Agility					4
+1453 3336 0	1453 3329 0	Walk-across Log balance 56991	45 Agility					4
+1396 3323 0	1391 3323 0	Climb Rocks 56994	41 Agility					4
+1391 3323 0	1396 3323 0	Climb Rocks 56994	41 Agility					4
+1368 3327 0	1368 3323 0	Climb-into Tunnel 56989	33 Agility					4
+1368 3323 0	1368 3327 0	Climb-into Tunnel 56989	33 Agility					4
+
