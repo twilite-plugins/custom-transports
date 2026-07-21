@@ -264,3 +264,12 @@
 2355 5221 0	2355 5222 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2355 5222 0	2355 5221 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2364 5212 0	2341 5219 0	Use Portal 23922				2312>0		1	Level 4: Sepulchre of Death - maze shortcut
+# Al Kharid Toll Gate									
+3267 3228 0	3268 3228 0	Open Gate 44051						1	
+3268 3228 0	3267 3228 0	Open Gate 44051						1	
+3267 3227 0	3268 3227 0	Open Gate 44050						1	
+3268 3227 0	3267 3227 0	Open Gate 44050						1	
+3267 3228 0	3268 3228 0	Pay-toll(10gp) Gate 44053						1	
+3268 3228 0	3267 3228 0	Pay-toll(10gp) Gate 44053						1	
+3267 3227 0	3268 3227 0	Pay-toll(10gp) Gate 44052						1	
+3268 3227 0	3267 3227 0	Pay-toll(10gp) Gate 44052						1	
