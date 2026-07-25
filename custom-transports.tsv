@@ -305,10 +305,10 @@
 3595 10291 0	3680 3854 0	Climb-up Exit 30844						1	
 3603 10290 0	3607 10290 0	Climb Stairs 31485						1	
 3607 10290 0	3603 10290 0	Climb Stairs 31485						1	
-# Karuulm slayer dungeon										
-1301 10206 0	1303 10206 0	Climb Rocks 34544						2	
-1303 10206 0	1301 10206 0	Climb Rocks 34544						2	
-1311 10214 0	1311 10216 0	Climb Rocks 34544						2	
-1311 10216 0	1311 10214 0	Climb Rocks 34544						2	
-1311 10188 0	1311 3807 0	Exit Cave exit 34514						3	
-1311 3807 0	1311 10188 0	Activate Elevator 34359						5	
+# Karuulm slayer dungeon
+1301 10206 0	1303 10206 0	Climb Rocks 34544						2
+1303 10206 0	1301 10206 0	Climb Rocks 34544						2
+1311 10214 0	1311 10216 0	Climb Rocks 34544						2
+1311 10216 0	1311 10214 0	Climb Rocks 34544						2
+1311 10188 0	1311 3807 0	Exit Cave exit 34514						3
+1311 3807 0	1311 10188 0	Activate Elevator 34359					5
