@@ -295,6 +295,8 @@
 3729 10296 1	3729 10294 1	Pay Tunnel 31845		NUMULITE>=200				2	
 3729 10294 1	3729 10296 1	Enter Tunnel 31844						1	
 3729 10296 1	3729 10294 1	Enter Tunnel 31844						1	
+3736 10299 1	3737 10299 1	Navigate Plant door 30961						1	
+3737 10299 1	3736 10299 1	Navigate Plant door 30961						1	
 3778 3821 0	3784 3821 0	Climb Up Rope anchor 30916	64 Agility					5	
 3784 3821 0	3778 3821 0	Climb Down Rope anchor 30917	64 Agility					5	
 3746 3779 0	3604 10231 0	Enter Cave Entrance 30869						1	
