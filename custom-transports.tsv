@@ -267,26 +267,46 @@
 2167 5271 0	2168 5271 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2168 5271 0	2167 5271 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2120 5257 0	2146 5287 0	Use Portal 23707				2311>0		1	Level 3: Pit of Pestilence - maze shortcut
+2308 5206 0	2309 5206 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2309 5206 0	2308 5206 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2311 5204 0	2312 5204 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2312 5204 0	2311 5204 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2319 5212 0	2319 5213 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2319 5213 0	2319 5212 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2319 5215 0	2319 5216 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2319 5216 0	2319 5215 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2324 5239 0	2324 5240 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2324 5240 0	2324 5239 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2324 5242 0	2324 5243 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2324 5243 0	2324 5242 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2332 5193 0	2333 5193 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2333 5193 0	2332 5193 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2332 5227 0	2333 5227 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2332 5237 0	2333 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2333 5227 0	2332 5227 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2332 5237 0	2333 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2333 5237 0	2332 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2335 5227 0	2336 5227 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2335 5193 0	2336 5193 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2336 5193 0	2335 5193 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2335 5226 0	2336 5226 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2336 5226 0	2335 5226 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2335 5237 0	2336 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2336 5227 0	2335 5227 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
 2336 5237 0	2335 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2341 5221 0	2341 5222 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2341 5222 0	2341 5221 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2341 5224 0	2341 5225 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2341 5225 0	2341 5224 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2355 5218 0	2355 5219 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2355 5219 0	2355 5218 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2355 5221 0	2355 5222 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2355 5222 0	2355 5221 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2340 5221 0	2340 5222 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2340 5222 0	2340 5221 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2340 5224 0	2340 5225 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2340 5225 0	2340 5224 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2356 5218 0	2356 5219 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2356 5219 0	2356 5218 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2356 5221 0	2356 5222 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2356 5222 0	2356 5221 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2359 5234 0	2359 5235 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2359 5235 0	2359 5234 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2360 5231 0	2360 5232 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2360 5232 0	2360 5231 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2361 5203 0	2361 5204 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2361 5204 0	2361 5203 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2362 5206 0	2362 5207 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2362 5207 0	2362 5206 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2364 5212 0	2341 5219 0	Use Portal 23922				2312>0		1	Level 4: Sepulchre of Death - maze shortcut
 # Al Kharid Toll Gate									
 3267 3228 0	3268 3228 0	Open Gate 44051						1	
