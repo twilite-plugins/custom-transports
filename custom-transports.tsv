@@ -218,51 +218,95 @@
 2039 5244 0	2040 5244 0	Open Rickety door 17100						1	Level 2: Catacomb of Famine
 2040 5244 0	2039 5244 0	Open Rickety door 17100						1	Level 2: Catacomb of Famine
 2040 5240 0	2021 5223 0	Use Portal 19005				2310>0		1	Level 2: Catacomb of Famine - maze shortcut
+2123 5287 0	2124 5287 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2124 5287 0	2123 5287 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2126 5287 0	2127 5287 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2127 5287 0	2126 5287 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2130 5296 0	2131 5296 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2131 5296 0	2130 5296 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2132 5256 0	2132 5257 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2132 5257 0	2132 5256 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2132 5259 0	2132 5260 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2132 5260 0	2132 5259 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2137 5262 0	2138 5262 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2138 5262 0	2137 5262 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2140 5262 0	2141 5262 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2141 5262 0	2140 5262 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2132 5278 0	2133 5278 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2133 5278 0	2132 5278 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2133 5281 0	2133 5282 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2133 5282 0	2133 5281 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2137 5263 0	2138 5263 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2138 5263 0	2137 5263 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2137 5294 0	2138 5294 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2138 5294 0	2137 5294 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2140 5263 0	2141 5263 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2141 5263 0	2140 5263 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2140 5294 0	2141 5294 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2141 5294 0	2140 5294 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
 2148 5291 0	2149 5291 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
 2149 5291 0	2148 5291 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2148 5298 0	2148 5299 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2148 5299 0	2148 5298 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2148 5301 0	2148 5302 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2148 5302 0	2148 5301 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2152 5291 0	2153 5291 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2153 5263 0	2154 5263 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2153 5291 0	2152 5291 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2153 5263 0	2154 5263 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2154 5263 0	2153 5263 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2155 5285 0	2155 5286 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2155 5286 0	2155 5285 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2155 5288 0	2155 5289 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2155 5289 0	2155 5288 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2156 5263 0	2157 5263 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2157 5263 0	2156 5263 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2163 5274 0	2163 5275 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2163 5275 0	2163 5274 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2163 5277 0	2163 5278 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
-2163 5278 0	2163 5277 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2156 5285 0	2156 5286 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2156 5286 0	2156 5285 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2164 5274 0	2164 5275 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2164 5275 0	2164 5274 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2164 5277 0	2164 5278 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2164 5278 0	2164 5277 0	Open Oozing barrier 23654						1	Level 3: Pit of Pestilence
+2166 5261 0	2166 5262 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2166 5262 0	2166 5261 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2167 5259 0	2167 5260 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2167 5260 0	2167 5259 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2167 5271 0	2168 5271 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
+2168 5271 0	2167 5271 0	Open Oozing barrier 23653						1	Level 3: Pit of Pestilence
 2120 5257 0	2146 5287 0	Use Portal 23707				2311>0		1	Level 3: Pit of Pestilence - maze shortcut
+2308 5206 0	2309 5206 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2309 5206 0	2308 5206 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2311 5204 0	2312 5204 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2312 5204 0	2311 5204 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2319 5212 0	2319 5213 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2319 5213 0	2319 5212 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2319 5215 0	2319 5216 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2319 5216 0	2319 5215 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2324 5239 0	2324 5240 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2324 5240 0	2324 5239 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2324 5242 0	2324 5243 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2324 5243 0	2324 5242 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2332 5193 0	2333 5193 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2333 5193 0	2332 5193 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2332 5227 0	2333 5227 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2332 5237 0	2333 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2333 5227 0	2332 5227 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2332 5237 0	2333 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2333 5237 0	2332 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2335 5227 0	2336 5227 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2335 5193 0	2336 5193 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2336 5193 0	2335 5193 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2335 5226 0	2336 5226 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2336 5226 0	2335 5226 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2335 5237 0	2336 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2336 5227 0	2335 5227 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
 2336 5237 0	2335 5237 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2341 5221 0	2341 5222 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2341 5222 0	2341 5221 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2341 5224 0	2341 5225 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2341 5225 0	2341 5224 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
-2355 5218 0	2355 5219 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2355 5219 0	2355 5218 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2355 5221 0	2355 5222 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
-2355 5222 0	2355 5221 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2340 5221 0	2340 5222 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2340 5222 0	2340 5221 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2340 5224 0	2340 5225 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2340 5225 0	2340 5224 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2356 5218 0	2356 5219 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2356 5219 0	2356 5218 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2356 5221 0	2356 5222 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2356 5222 0	2356 5221 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2359 5234 0	2359 5235 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2359 5235 0	2359 5234 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2360 5231 0	2360 5232 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2360 5232 0	2360 5231 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2361 5203 0	2361 5204 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2361 5204 0	2361 5203 0	Open Portal of Death 23727						1	Level 4: Sepulchre of Death
+2362 5206 0	2362 5207 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
+2362 5207 0	2362 5206 0	Open Portal of Death 23728						1	Level 4: Sepulchre of Death
 2364 5212 0	2341 5219 0	Use Portal 23922				2312>0		1	Level 4: Sepulchre of Death - maze shortcut
 # Al Kharid Toll Gate									
 3267 3228 0	3268 3228 0	Open Gate 44051						1	
