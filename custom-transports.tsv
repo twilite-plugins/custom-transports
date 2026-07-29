@@ -368,3 +368,5 @@
 1311 10216 0	1311 10214 0	Climb Rocks 34544						2	
 1311 10188 0	1311 3807 0	Exit Cave exit 34514						3	
 1311 3807 0	1311 10188 0	Activate Elevator 34359						5	
+# Pest control boat									
+2663 2676 1	2659 2676 0	Cross Gangplank 14307						1	
