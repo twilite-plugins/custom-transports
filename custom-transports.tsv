@@ -116,6 +116,18 @@
 3670 3452 0	3670 3454 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
 3669 3454 0	3669 3452 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
 3670 3454 0	3670 3452 0	Pass Energy Barrier 16105			Ghosts Ahoy			2	
+3659 3509 0	3659 3507 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3660 3509 0	3660 3507 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3659 3507 0	3659 3509 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3660 3507 0	3660 3509 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3651 3486 0	3653 3486 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3651 3485 0	3653 3485 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3653 3486 0	3651 3486 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3653 3485 0	3651 3485 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3669 3452 0	3669 3454 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3670 3452 0	3670 3454 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3669 3454 0	3669 3452 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
+3670 3454 0	3670 3452 0	Pay-toll(2-Ecto) Energy Barrier 16105			Ghosts Ahoy<1			2	
 # Gnome Stronghold									
 2435 3519 0	1987 5568 0	Pass-through Opening 28656						2	
 1987 5568 0	2435 3519 0	Pass-through Opening 28656						2	
