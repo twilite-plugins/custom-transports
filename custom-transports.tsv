@@ -1164,3 +1164,23 @@
 # Brass key door
 3115 3449 0	3115 3450 0	Open Door 1804		BRASS_KEY=1				1	
 3115 3450 0	3115 3449 0	Open Door 1804		BRASS_KEY=1				1	
+# Black Knights' Fortress
+3007 3516 0	3008 3516 0	Open Large door 73						1	
+3008 3516 0	3007 3516 0	Open Large door 73						1	
+3016 3514 0	3016 3515 0	Open Sturdy door 2337						1	
+3016 3515 0	3016 3514 0	Open Sturdy door 2337						1	
+3019 3515 0	3020 3515 0	Open Door 2338						1	
+3020 3515 0	3019 3515 0	Open Door 2338						1	
+3016 3516 0	3016 3517 0	Push Wall 2341						1	
+3016 3517 0	3016 3516 0	Push Wall 2341						1	
+3015 3517 0	3015 3517 1	Climb-up Ladder 17148						1	
+3015 3517 1	3015 3517 0	Climb-down Ladder 17149						1	
+3025 3511 1	3026 3511 1	Open Sturdy door 2339						1	
+3026 3511 1	3025 3511 1	Open Sturdy door 2339						1	
+3019 3515 1	3020 3515 1	Open Door 14749						1	
+3020 3515 1	3019 3515 1	Open Door 14749						1	
+3017 3515 1	3017 3515 2	Climb-up Ladder 17148						1	
+3017 3515 2	3017 3515 1	Climb-down Ladder 17149						1	
+3016 3518 1	3016 3518 2	Climb-up Ladder 17148						1	
+3016 3518 2	3016 3518 1	Climb-down Ladder 17149						1	
+2952 5762 0	2998 3494 0	Exit Ruins Exit 41446						1	
