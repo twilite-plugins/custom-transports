@@ -1161,3 +1161,6 @@
 # Fossil Island north rowboat									
 3733 3894 0	3764 3899 0	Travel Rowboat 30915						3	
 3733 3893 0	3764 3899 0	Travel Rowboat 30915						3	
+# Brass key door
+3115 3449 0	3115 3450 0	Open Door 1804		BRASS_KEY=1				1	
+3115 3450 0	3115 3449 0	Open Door 1804		BRASS_KEY=1				1	
