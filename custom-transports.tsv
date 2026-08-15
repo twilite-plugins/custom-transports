@@ -1192,9 +1192,9 @@
 # Ice Mountain ruins									
 2953 5764 0	2998 3494 0	Exit Ruins exit 41446						1	
 2998 3494 0	2953 5764 0	Enter Ruins entrance 41439						1	
-# Rantz Cave
-2630 2997 0	2647 9378 0 	Enter Cave entrance 3379
-2647 9378 0 	2629 2997 0 	Walk through Cave exit 3381
-# Combat Training Camp Ogre Pen
-2522 3375 0 	2523 3375 0 	Squeeze-through Loose Railing 19171           Biohazard
-2523 3375 0 	2522 3375 0 	Squeeze-through Loose Railing 19171           Biohazard
+# Rantz Cave									
+2630 2997 0	2647 9378 0	Enter Cave entrance 3379						
+2647 9378 0	2629 2997 0	Walk-through Cave exit 3381						
+# Combat Training Camp Ogre Pen									
+2522 3375 0	2523 3375 0	Squeeze-through Loose Railing 19171			Biohazard			5	
+2523 3375 0	2522 3375 0	Squeeze-through Loose Railing 19171			Biohazard			5	
