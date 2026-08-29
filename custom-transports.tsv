@@ -1219,3 +1219,6 @@
 # Floor 1 to floor 2									
 3277 5168 1	3280 5710 2	Enter Hole 29734						2	
 3280 5710 2	3277 5168 1	Climb-up Rope 29831						2	
+# Aldarin chests house									
+1381 2953 0	1384 2953 1	Climb-up Staircase 54782						1	
+1384 2953 1 1381 2953 0	Climb-down Staircase 54783						1	
