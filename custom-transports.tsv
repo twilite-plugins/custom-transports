@@ -1236,3 +1236,6 @@
 # Aldarin chests house									
 1381 2953 0	1384 2953 1	Climb-up Staircase 54782						1	
 1384 2953 1	1381 2953 0	Climb-down Staircase 54783						1	
+# Grand exchange agility shortcut									
+3142 3513 0	3137 3516 0	Climb-into Underwall tunnel 16530	21 Agility					3	
+3137 3516 0	3142 3513 0	Climb-into Underwall tunnel 16529	21 Agility					3	
