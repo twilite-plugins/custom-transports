@@ -678,6 +678,9 @@
 1637 4801 0	3238 3142 0	Board Rowboat 30109						1	
 1646 4830 0	1648 4830 0	Climb Damaged wall 29657						1	
 1648 4830 0	1646 4830 0	Climb Damaged wall 29657						1	
+# Below Ice Mountain post quest dungeon									
+2953 5762 0	2998 3494 0	Exit Ruins Exit 41446						3	
+2998 3494 0	2953 5762 0	Enter Ruins Entrance 41439						3	
 # Monastery									
 2998 3494 0	2952 5762 0	Enter Blocked entry 41357			Below Ice Mountain			1	
 3022 3510 0	3022 3510 1	Climb-up Ladder 17148						1	
