@@ -1278,3 +1278,6 @@
 1326 10097 0	1324 10097 0	Pass Mystical barrier 34432						1	
 1326 10097 0	1324 10097 0	Pass Mystical barrier (orange) 34433						1	
 1326 10097 0	1324 10097 0	Pass Mystical barrier (red) 34434						1	
+# Grand exchange agility shortcut									
+3142 3513 0	3137 3516 0	Climb-into Underwall tunnel 16530	21 Agility					3	
+3137 3516 0	3142 3513 0	Climb-into Underwall tunnel 16529	21 Agility					3	
