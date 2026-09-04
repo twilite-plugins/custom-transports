@@ -1236,45 +1236,45 @@
 # Aldarin chests house									
 1381 2953 0	1384 2953 1	Climb-up Staircase 54782						1	
 1384 2953 1	1381 2953 0	Climb-down Staircase 54783						1	
-# Molch into Lizardman Temple
-1292 3659 0	1292 10057 0	Enter	Lizard dwelling	34402						1
-# Enter North West Lizardman Temple Room from South
-1292 10091 0	1292 10093 0	Pass	Mystical barrier	34432						1
-1292 10091 0	1292 10093 0	Pass	Mystical barrier (orange)	34433						1
-1292 10091 0	1292 10093 0	Pass	Mystical barrier (red)	34434						1
-# Exit North West Lizardman Temple Room to South
-1292 10093 0	1292 10091 0	Pass	Mystical barrier	34432						1
-1292 10093 0	1292 10091 0	Pass	Mystical barrier (orange)	34433						1
-1292 10093 0	1292 10091 0	Pass	Mystical barrier (red)	34434						1
-# Enter North West Room from East
-1298 10096 0	1296 10096 0	Pass	Mystical barrier	34432						1
-1298 10096 0	1296 10096 0	Pass	Mystical barrier (orange)	34433						1
-1298 10096 0	1296 10096 0	Pass	Mystical barrier (red)	34434						1
-# Exit North West Lizardman Temple Room to East
-1296 10096 0	1298 10096 0	Pass	Mystical barrier	34432						1
-1296 10096 0	1298 10096 0	Pass	Mystical barrier (orange)	34433						1
-1296 10096 0	1298 10096 0	Pass	Mystical barrier (red)	34434						1
-# Enter Center Lizardman Temple Room from West
-1307 10096 0	1309 10096 0	Pass	Mystical barrier	34432						1
-1307 10096 0	1309 10096 0	Pass	Mystical barrier (orange)	34433						1
-1307 10096 0	1309 10096 0	Pass	Mystical barrier (red)	34434						1
-# Exit Center Lizardman Temple Room to West
-1309 10096 0	1307 10096 0	Pass	Mystical barrier	34432						1
-1309 10096 0	1307 10096 0	Pass	Mystical barrier (orange)	34433						1
-1309 10096 0	1307 10096 0	Pass	Mystical barrier (red)	34434						1
-# Enter Center Lizardman Temple Room from East
-1318 10097 0	1316 10097 0	Pass	Mystical barrier	34432						1
-1318 10097 0	1316 10097 0	Pass	Mystical barrier (orange)	34433						1
-1318 10097 0	1316 10097 0	Pass	Mystical barrier (red)	34434						1
-# Exit Center Lizardman Temple Room to East
-1316 10097 0	1318 10097 0	Pass	Mystical barrier	34432						1
-1316 10097 0	1318 10097 0	Pass	Mystical barrier (orange)	34433						1
-1316 10097 0	1318 10097 0	Pass	Mystical barrier (red)	34434						1
-# Enter North East Lizardman Temple Room from West
-1324 10097 0	1326 10097 0	Pass	Mystical barrier	34432						1
-1324 10097 0	1326 10097 0	Pass	Mystical barrier (orange)	34433						1
-1324 10097 0	1326 10097 0	Pass	Mystical barrier (red)	34434						1
-# Exit North East Lizardman Temple Room to West
-1326 10097 0	1324 10097 0	Pass	Mystical barrier	34432						1
-1326 10097 0	1324 10097 0	Pass	Mystical barrier (orange)	34433						1
-1326 10097 0	1324 10097 0	Pass	Mystical barrier (red)	34434						1
+# Molch into Lizardman Temple									
+1292 3659 0	1292 10057 0	Enter Lizard dwelling 34402						1	
+# Enter North West Lizardman Temple Room from South									
+1292 10091 0	1292 10093 0	Pass Mystical barrier 34432						1	
+1292 10091 0	1292 10093 0	Pass Mystical barrier (orange) 34433						1	
+1292 10091 0	1292 10093 0	Pass Mystical barrier (red) 34434						1	
+# Exit North West Lizardman Temple Room to South									
+1292 10093 0	1292 10091 0	Pass Mystical barrier 34432						1	
+1292 10093 0	1292 10091 0	Pass Mystical barrier (orange) 34433						1	
+1292 10093 0	1292 10091 0	Pass Mystical barrier (red) 34434						1	
+# Enter North West Lizardman Temple Room from East									
+1298 10096 0	1296 10096 0	Pass Mystical barrier 34432						1	
+1298 10096 0	1296 10096 0	Pass Mystical barrier (orange) 34433						1	
+1298 10096 0	1296 10096 0	Pass Mystical barrier (red) 34434						1	
+# Exit North West Lizardman Temple Room to East									
+1296 10096 0	1298 10096 0	Pass Mystical barrier 34432						1	
+1296 10096 0	1298 10096 0	Pass Mystical barrier (orange) 34433						1	
+1296 10096 0	1298 10096 0	Pass Mystical barrier (red) 34434						1	
+# Enter Center Lizardman Temple Room from West									
+1307 10096 0	1309 10096 0	Pass Mystical barrier 34432						1	
+1307 10096 0	1309 10096 0	Pass Mystical barrier (orange) 34433						1	
+1307 10096 0	1309 10096 0	Pass Mystical barrier (red) 34434						1	
+# Exit Center Lizardman Temple Room to West									
+1309 10096 0	1307 10096 0	Pass Mystical barrier 34432						1	
+1309 10096 0	1307 10096 0	Pass Mystical barrier (orange) 34433						1	
+1309 10096 0	1307 10096 0	Pass Mystical barrier (red) 34434						1	
+# Enter Center Lizardman Temple Room from East									
+1318 10097 0	1316 10097 0	Pass Mystical barrier 34432						1	
+1318 10097 0	1316 10097 0	Pass Mystical barrier (orange) 34433						1	
+1318 10097 0	1316 10097 0	Pass Mystical barrier (red) 34434						1	
+# Exit Center Lizardman Temple Room to East									
+1316 10097 0	1318 10097 0	Pass Mystical barrier 34432						1	
+1316 10097 0	1318 10097 0	Pass Mystical barrier (orange) 34433						1	
+1316 10097 0	1318 10097 0	Pass Mystical barrier (red) 34434						1	
+# Enter North East Lizardman Temple Room from West									
+1324 10097 0	1326 10097 0	Pass Mystical barrier 34432						1	
+1324 10097 0	1326 10097 0	Pass Mystical barrier (orange) 34433						1	
+1324 10097 0	1326 10097 0	Pass Mystical barrier (red) 34434						1	
+# Exit North East Lizardman Temple Room to West									
+1326 10097 0	1324 10097 0	Pass Mystical barrier 34432						1	
+1326 10097 0	1324 10097 0	Pass Mystical barrier (orange) 34433						1	
+1326 10097 0	1324 10097 0	Pass Mystical barrier (red) 34434						1	
