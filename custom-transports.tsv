@@ -1299,6 +1299,21 @@
 # Karamja stepping stones									
 2925 2947 0	2925 2951 0	Cross Stepping stones 23647	30 Agility					17	
 2925 2951 0	2925 2947 0	Cross Stepping stones 23645	30 Agility					17	
+# Ernest chicken basement									
+3108 9756 0	3108 9759 0	Open Door 11450						1	
+3108 9759 0	3108 9756 0	Open Door 11450						1	
+3102 9756 0	3102 9759 0	Open Door 11450						1	
+3102 9759 0	3102 9756 0	Open Door 11450						1	
+3101 9760 0	3099 9760 0	Open Door 11450						1	
+3099 9760 0	3101 9760 0	Open Door 11450						1	
+3097 9762 0	3097 9764 0	Open Door 11450						1	
+3097 9764 0	3097 9762 0	Open Door 11450						1	
+3099 9765 0	3101 9764 0	Open Door 11450						1	
+3101 9764 0	3099 9765 0	Open Door 11450						1	
+3104 9765 0	3106 9765 0	Open Door 11450						1	
+3106 9765 0	3104 9765 0	Open Door 11450						1	
+3102 9764 0	3102 9762 0	Open Door 11450						1	
+3102 9762 0	3102 9764 0	Open Door 11450						1	
 # Fight arena									
 2609 3189 0	2609 3192 0	Open Door 1535						1	
 2609 3192 0	2609 3189 0	Open Door 1535						1	
